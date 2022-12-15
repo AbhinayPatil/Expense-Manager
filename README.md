@@ -1,16 +1,6 @@
 # expenses_app
+Simple expense app that can perform addition and deletion tasks and provide with a chart for expenditure of last week
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<image src="https://user-images.githubusercontent.com/89311783/207867343-688d56f5-dbf9-4e56-b2b1-494f55fc526b.jpg" height=500>  <image src="https://user-images.githubusercontent.com/89311783/207867705-22242d91-50c0-4305-855c-1ebfbbd6bd2d.jpg" height=500>
+  <image src="https://user-images.githubusercontent.com/89311783/207867792-250be4c0-faf3-45a9-90b7-460e9238a5dc.jpg" height=500>
+  <image src="https://user-images.githubusercontent.com/89311783/207867867-b0ca1b4a-51a8-46ae-b6e8-f58ff6de00fb.jpg" height=500>
